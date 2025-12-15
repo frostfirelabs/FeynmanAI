@@ -17,5 +17,7 @@ Download and run `Feynman.py` from this repo to launch the program.
 ## USAGE
 
 **Tutor**: Explain a topic of your choice to the AI, and the AI will try to ask a question until youve broken it down enough. If the AI makes a mistake, click on **Retry**. Trouble with a question? No worries, just click on **Flag Question**
+
 **Review**: Review your **flagged questions**
+
 **Settings**: Self explanatory, modify it based on your preferences.
