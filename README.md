@@ -4,10 +4,13 @@
 ## INSTALLATION
 
 Install Ollama first. This is where the app will get the AI's from.
-After installing, run these 3 commands
+After installing, run these 3 commands on Command Prompt or terminal.
+`pip install customtkinter ollama` -- Python modules required
 
 `ollama pull gemma3n:e4b`
-`ollama pull gemma3n:e2b`
+
+`ollama pull gemma3n:e2b` } - Models
+
 `ollama pull gemma3:1b`
 
 These are downloading **MY** recommended models, you can obviously pull different models, but you have to modify it in the code.
